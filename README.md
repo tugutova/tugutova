@@ -1,5 +1,8 @@
-### Hi there 👋
+### Привет! Я - Катя, JavaScript-разработчик! 👋
 
+👀 Интересуюсь web-разработкой и путешествиями
+💻 Люблю изучать новые технологии и инструменты
+📫 email: ekaterina.tugutova@gmail.com
 <!--
 **tugutova/tugutova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
