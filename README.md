@@ -12,6 +12,7 @@
 
 [<img align="left" alt="ekaterina_tugutova | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 [<img align="left" alt="ekaterina_tugutova | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="ekaterina_tugutova | Gmail" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/40/000000/external-gmail-social-media-justicon-flat-justicon.png" />][gmail]
 
 <br/>
 <br/>
@@ -38,3 +39,12 @@
 - ##Фронтенд##: JS, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
 - **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM
+
+---
+### GitHub cтатистика:
+[![Ekaterina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugutova&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/tugutova)
+
+[linkedin]: https://www.linkedin.com/in/ekaterina-tugutova
+[telegram]: https://t.me/ekaterina_tugutova
+[gmail]: ekaterina_tugutova@gmail.com
+[git]: https://github.com/tugutova
