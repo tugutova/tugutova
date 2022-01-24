@@ -12,7 +12,6 @@
 
 [<img align="left" alt="ekaterina_tugutova | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="ekaterina_tugutova | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
-[<img align="left" alt="ekaterina_tugutova | Gmail" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/40/000000/external-gmail-social-media-justicon-flat-justicon.png" />][gmail]
 
 <br/>
 <br/>
