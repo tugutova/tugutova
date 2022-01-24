@@ -40,6 +40,9 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 
 ---
+### JavaScript:
+![CodeWars](https://www.codewars.com/users/ekaterina.tugutova/badges/large)
+---
 ### GitHub cтатистика:
 [![Ekaterina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugutova&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/tugutova)
 
